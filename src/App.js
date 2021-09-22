@@ -15,6 +15,7 @@ function App() {
           </Route>
           <Route path="/checkout">
             <Header />
+            <Checkout />
           </Route>
           <Route path="/">
             <Header />
